@@ -76,3 +76,4 @@ On Windows:
 ```sh
 rd /s /q build
 ```
+<img width="565" alt="Screenshot 2025-04-21 at 3 33 47 PM" src="https://github.com/user-attachments/assets/d91e01e0-27be-422d-a438-32a0071a6f0e" />
